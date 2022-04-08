@@ -34,6 +34,10 @@ export var render = data =>
 
 In order to run 🍦.11ty.js in your [local development environment](/blog/getting-started/), the final tool you’ll need to have installed is a program called [Node.js][nodejs], which also comes with a handy package manager called <abbr title="npm: Node Package Manager">npm</abbr>.
 
+## BUYACHARAKS 
+
+> bLOCK ME BABY !!!!!!
+
 ### What is Node.js?
 
 In the [first post of this series](/blog/getting-started), I briefly explained that Node.js is the _JavaScript runtime environment_ which allows you to use 🍦.11ty.js and Eleventy on your computer outside the browser.
